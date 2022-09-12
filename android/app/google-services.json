@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493462319594",
+    "project_id": "todo-firebase-app-bb04f",
+    "storage_bucket": "todo-firebase-app-bb04f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493462319594:android:8f20b3e0f67190e3fe0293",
+        "android_client_info": {
+          "package_name": "com.Rajaram.day_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493462319594-g8ninvrdpre4b62e7krrmbjjq8pp6i54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpAf_Tyo8XoNV_IC9tO08AzJ4Hr1Qqx4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493462319594-g8ninvrdpre4b62e7krrmbjjq8pp6i54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
